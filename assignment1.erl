@@ -30,8 +30,6 @@ m1([_|Xs]) ->
 % Question 2 - Syntax
 %--------------------------------------------------------
 
-
-
 % It should say 'when' not 'if' for the condtion.
 % There should be a semicolon instead of the comma.
 % The function only includes one of the numbers.
